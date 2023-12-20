@@ -1,0 +1,11 @@
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\bin\Debug\Finanse.dll
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\bin\Debug\Finanse.pdb
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\bin\Debug\Finanse.dll.config
+D:\Projects\c#\UchetLichnyxFinansov\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

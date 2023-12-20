@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "324b0ed9-f9dc-4a5c-83a3-4a3769aab826": {
+      "ProjectGuid": "324b0ed9-f9dc-4a5c-83a3-4a3769aab826",
+      "DisplayName": "UchetLichnyxFinansov",
+      "ColorIndex": 0
+    },
+    "7752f070-bc6e-4202-82d4-f8698455ed93": {
+      "ProjectGuid": "7752f070-bc6e-4202-82d4-f8698455ed93",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "db6c88d4-77b0-4e96-8b81-005d0dac7590": {
+      "ProjectGuid": "db6c88d4-77b0-4e96-8b81-005d0dac7590",
+      "DisplayName": "Finanse",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

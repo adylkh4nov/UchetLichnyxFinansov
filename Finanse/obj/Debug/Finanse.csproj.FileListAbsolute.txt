@@ -1,0 +1,7 @@
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\obj\Debug\Finanse.csproj.AssemblyReference.cache
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\obj\Debug\Finanse.csproj.CoreCompileInputs.cache
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\bin\Debug\Finanse.dll.config
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\bin\Debug\Finanse.dll
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\bin\Debug\Finanse.pdb
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\obj\Debug\Finanse.dll
+D:\Projects\c#\UchetLichnyxFinansov\Finanse\obj\Debug\Finanse.pdb
