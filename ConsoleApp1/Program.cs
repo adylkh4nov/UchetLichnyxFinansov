@@ -21,11 +21,14 @@ namespace PersonalFinanceTracker
 
         public static void StartProgramm()
         {
-            string connectionString = @"Data Source=OLZHAS;Initial Catalog=Finanse;User id=sa;Password=123;";
+            //Подключение к БД - строка соединения
+            string path = "configBD.txt"; // Замените на путь к вашему файлу
+            string connectionString = File.ReadAllText(path);
 
             UserInterface userInterface = new UserInterface(connectionString);
 
             bool exit = false;
+            //Основyное меню
             while (!exit)
             {
                 Console.WriteLine("Учет личных финансов");

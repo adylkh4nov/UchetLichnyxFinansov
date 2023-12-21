@@ -8,6 +8,7 @@ using System.Data.SqlClient;
 using System.Security.Cryptography;
 namespace Finanse
 {
+    
     public class Transaction
     {
         public int id {  get; set; }
@@ -49,7 +50,7 @@ namespace Finanse
 
             decimal balance = 0;
             string query = "SELECT SUM(CASE WHEN summary > 0 THEN summary ELSE 0 END) - " +
-                           "SUM(CASE WHEN summary < 0 THEN summary ELSE 0 END) " +
+                           "ABS(SUM(CASE WHEN summary < 0 THEN summary ELSE 0 END)) " +
                            "FROM Bank";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
